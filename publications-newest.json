@@ -19,6 +19,25 @@
   },
   {
     "type": "article",
+    "key": "ARORA_2026",
+    "title": "BIOMETRIC DATA AND FACIAL RECOGNITION",
+    "volume": "6",
+    "issn": "2583-2344",
+    "url": "http://dx.doi.org/10.65393/oocb1973",
+    "doi": "10.65393/oocb1973",
+    "number": "2",
+    "journal": "Indian Journal of Legal Review",
+    "publisher": "Institute of Legal Education",
+    "author": "ARORA, BHAWNA and RAJ, ANKIT and <b>{KUMAR, SHIVAM}</b>",
+    "year": "2026",
+    "month": "mar",
+    "pages": "192",
+    "yearNum": 2026,
+    "monthNum": 3,
+    "sortKey": 202603
+  },
+  {
+    "type": "article",
     "key": "Mulder_2026",
     "title": "Complement response to burn injury: systematic review and meta-analysis of patient and animal studies",
     "volume": "17",
@@ -66,19 +85,5 @@
     "yearNum": 2026,
     "monthNum": 2,
     "sortKey": 202602
-  },
-  {
-    "type": "article",
-    "key": "de_Regt_2026",
-    "title": "Standardized API Call Protocols for implementing Federated Learning in FAIRDatabase",
-    "url": "http://dx.doi.org/10.21203/rs.3.rs-8681063/v1",
-    "doi": "10.21203/rs.3.rs-8681063/v1",
-    "publisher": "Springer Science and Business Media LLC",
-    "author": "de Regt, Sem and <b>{Bumbuc, Roland V.}</b> and <b>{Sheraton, Vivek M.}</b>",
-    "year": "2026",
-    "month": "jan",
-    "yearNum": 2026,
-    "monthNum": 1,
-    "sortKey": 202601
   }
 ]
