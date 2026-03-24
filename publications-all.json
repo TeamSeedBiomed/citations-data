@@ -405,6 +405,21 @@
     "sortKey": 202506
   },
   {
+    "type": "misc",
+    "key": "https://doi.org/10.48550/arxiv.2505.03067",
+    "doi": "10.48550/ARXIV.2505.03067",
+    "url": "https://arxiv.org/abs/2505.03067",
+    "author": "<b>{Dolganov, Anton}</b> and Krzhizhanovskaya, Valeria and Trebeschi, Stefano and <b>{Sheraton, Vivek M.}</b>",
+    "keywords": "Computational Engineering, Finance, and Science (cs.CE), Distributed, Parallel, and Cluster Computing (cs.DC), Quantitative Methods (q-bio.QM), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Biological sciences, FOS: Biological sciences",
+    "title": "Multiscale Parallel Simulation of Malignant Pleural Mesothelioma via Adaptive Domain Partitioning -- an Efficiency Analysis Study",
+    "publisher": "arXiv",
+    "year": "2025",
+    "copyright": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+    "yearNum": 2025,
+    "monthNum": 6,
+    "sortKey": 202506
+  },
+  {
     "type": "article",
     "key": "de_Kruijf_2025",
     "title": "Age in aortic disease: The path towards atrial fibrillation",
