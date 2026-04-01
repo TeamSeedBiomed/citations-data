@@ -1,6 +1,22 @@
 [
   {
     "type": "article",
+    "key": "Baglamis_2026",
+    "title": "In vitro models of cell competition: current approaches and future directions",
+    "issn": "1476-5594",
+    "url": "http://dx.doi.org/10.1038/s41388-026-03751-7",
+    "doi": "10.1038/s41388-026-03751-7",
+    "journal": "Oncogene",
+    "publisher": "Springer Science and Business Media LLC",
+    "author": "<b>{Baglamis, Selami}</b> and Krawczyk, Przemek M. and Vermeulen, Louis and van Neerven, Sanne M. and Lenos, Kristiaan J.",
+    "year": "2026",
+    "month": "mar",
+    "yearNum": 2026,
+    "monthNum": 3,
+    "sortKey": 202603
+  },
+  {
+    "type": "article",
     "key": "Awad_2026",
     "title": "On the Origins of Toughness in Corymbia calophylla (Marri Tree) Nuts",
     "issn": "2198-3844",
@@ -116,7 +132,7 @@
     "url": "http://dx.doi.org/10.21203/rs.3.rs-8205252/v1",
     "doi": "10.21203/rs.3.rs-8205252/v1",
     "publisher": "Springer Science and Business Media LLC",
-    "author": "Zhu, Zefan and Louws, Matthias N. and <b>{Bumbuc, Roland V.}</b> and Sakkers, Jelle and Wilding, Rory and Brandt, Bernd W. and Hoekstra, Alfons G. and <b>{Sheraton, Vivek M.}</b>",
+    "author": "Zhu, Zefan and <b>{Louws, Matthias N.}</b> and <b>{Bumbuc, Roland V.}</b> and Sakkers, Jelle and Wilding, Rory and Brandt, Bernd W. and Hoekstra, Alfons G. and <b>{Sheraton, Vivek M.}</b>",
     "year": "2025",
     "month": "dec",
     "yearNum": 2025,
