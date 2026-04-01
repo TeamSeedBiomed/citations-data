@@ -1,6 +1,22 @@
 [
   {
     "type": "article",
+    "key": "Baglamis_2026",
+    "title": "In vitro models of cell competition: current approaches and future directions",
+    "issn": "1476-5594",
+    "url": "http://dx.doi.org/10.1038/s41388-026-03751-7",
+    "doi": "10.1038/s41388-026-03751-7",
+    "journal": "Oncogene",
+    "publisher": "Springer Science and Business Media LLC",
+    "author": "<b>{Baglamis, Selami}</b> and Krawczyk, Przemek M. and Vermeulen, Louis and van Neerven, Sanne M. and Lenos, Kristiaan J.",
+    "year": "2026",
+    "month": "mar",
+    "yearNum": 2026,
+    "monthNum": 3,
+    "sortKey": 202603
+  },
+  {
+    "type": "article",
     "key": "Awad_2026",
     "title": "On the Origins of Toughness in Corymbia calophylla (Marri Tree) Nuts",
     "issn": "2198-3844",
@@ -64,19 +80,5 @@
     "yearNum": 2026,
     "monthNum": 2,
     "sortKey": 202602
-  },
-  {
-    "type": "article",
-    "key": "de_Regt_2026",
-    "title": "Standardized API Call Protocols for implementing Federated Learning in FAIRDatabase",
-    "url": "http://dx.doi.org/10.21203/rs.3.rs-8681063/v1",
-    "doi": "10.21203/rs.3.rs-8681063/v1",
-    "publisher": "Springer Science and Business Media LLC",
-    "author": "de Regt, Sem and <b>{Bumbuc, Roland V.}</b> and <b>{Sheraton, Vivek M.}</b>",
-    "year": "2026",
-    "month": "jan",
-    "yearNum": 2026,
-    "monthNum": 1,
-    "sortKey": 202601
   }
 ]
