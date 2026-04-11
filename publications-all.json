@@ -1,6 +1,24 @@
 [
   {
     "type": "article",
+    "key": "Papapanagiotou_2026",
+    "title": "Machine learning for early detection and prediction of sepsis: explainability and key sepsis biomarkers representation---A systematic review",
+    "volume": "214",
+    "issn": "1386-5056",
+    "url": "http://dx.doi.org/10.1016/j.ijmedinf.2026.106420",
+    "doi": "10.1016/j.ijmedinf.2026.106420",
+    "journal": "International Journal of Medical Informatics",
+    "publisher": "Elsevier BV",
+    "author": "<b>{Papapanagiotou, Ioannis}</b> and Karalis, Apostolos and Kokkoris, Stelios and Vrettou, Charikleia S. and Kampouropoulou, Olga and Giannopoulou, Vassiliki and Golemati, Spyretta and Kotanidou, Anastasia and Papapanagiotou, Stavros and Dimopoulou, Ioanna and Vassiliou, Alice G.",
+    "year": "2026",
+    "month": "jul",
+    "pages": "106420",
+    "yearNum": 2026,
+    "monthNum": 7,
+    "sortKey": 202607
+  },
+  {
+    "type": "article",
     "key": "Baglamis_2026",
     "title": "In vitro models of cell competition: current approaches and future directions",
     "volume": "45",
