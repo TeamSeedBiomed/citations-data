@@ -55,6 +55,20 @@
   },
   {
     "type": "article",
+    "key": "Ly_2026",
+    "title": "A PBK Model for PFAS Transfer from Feed to Fillet in Farmed Atlantic Salmon",
+    "url": "http://dx.doi.org/10.21203/rs.3.rs-9312722/v1",
+    "doi": "10.21203/rs.3.rs-9312722/v1",
+    "publisher": "Springer Science and Business Media LLC",
+    "author": "<b>{Ly, Tu-Ky}</b> and Veenaas, Cathrin and Bodin, Cleo and Lie, Kai Kristoffer and Beaudouin, Remy and Berntssen, Marc",
+    "year": "2026",
+    "month": "apr",
+    "yearNum": 2026,
+    "monthNum": 4,
+    "sortKey": 202604
+  },
+  {
+    "type": "article",
     "key": "Baglamis_2026",
     "title": "In vitro models of cell competition: current approaches and future directions",
     "volume": "45",
