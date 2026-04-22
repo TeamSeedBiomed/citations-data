@@ -55,6 +55,20 @@
   },
   {
     "type": "article",
+    "key": "Ly_2026",
+    "title": "A PBK Model for PFAS Transfer from Feed to Fillet in Farmed Atlantic Salmon",
+    "url": "http://dx.doi.org/10.21203/rs.3.rs-9312722/v1",
+    "doi": "10.21203/rs.3.rs-9312722/v1",
+    "publisher": "Springer Science and Business Media LLC",
+    "author": "<b>{Ly, Tu-Ky}</b> and Veenaas, Cathrin and Bodin, Cleo and Lie, Kai Kristoffer and Beaudouin, Remy and Berntssen, Marc",
+    "year": "2026",
+    "month": "apr",
+    "yearNum": 2026,
+    "monthNum": 4,
+    "sortKey": 202604
+  },
+  {
+    "type": "article",
     "key": "Baglamis_2026",
     "title": "In vitro models of cell competition: current approaches and future directions",
     "volume": "45",
@@ -68,22 +82,6 @@
     "year": "2026",
     "month": "mar",
     "pages": "1287--1295",
-    "yearNum": 2026,
-    "monthNum": 3,
-    "sortKey": 202603
-  },
-  {
-    "type": "article",
-    "key": "Awad_2026",
-    "title": "On the Origins of Toughness in Corymbia calophylla (Marri Tree) Nuts",
-    "issn": "2198-3844",
-    "url": "http://dx.doi.org/10.1002/advs.202515273",
-    "doi": "10.1002/advs.202515273",
-    "journal": "Advanced Science",
-    "publisher": "Wiley",
-    "author": "Awad, Wegood M. and Dalaq, Ahmed S. and Al‐Handawi, Marieh B. and <b>{Getsadze, Rezo}</b> and Al‐Ketan, Oraib and Weston, James and Daqaq, Mohammed and Naumov, Panče",
-    "year": "2026",
-    "month": "mar",
     "yearNum": 2026,
     "monthNum": 3,
     "sortKey": 202603
