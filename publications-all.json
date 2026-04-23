@@ -37,6 +37,20 @@
   },
   {
     "type": "article",
+    "key": "Getsadze_2026",
+    "title": "Mechanistic Modeling of Stress-Induced Glucose Dysregulation: Calibrating a Coupled HPA-Metabolic Framework to the UK Biobank",
+    "url": "http://dx.doi.org/10.21203/rs.3.rs-9475176/v1",
+    "doi": "10.21203/rs.3.rs-9475176/v1",
+    "publisher": "Springer Science and Business Media LLC",
+    "author": "<b>{Getsadze, Rezo}</b> and <b>{Cao, Qiziyi}</b> and <b>{Kumar, Shivam}</b> and <b>{Sheraton, Vivek M.}</b>",
+    "year": "2026",
+    "month": "apr",
+    "yearNum": 2026,
+    "monthNum": 4,
+    "sortKey": 202604
+  },
+  {
+    "type": "article",
     "key": "van_Eldijk_2026",
     "title": "Integrating microbiome data visualization into FAIRDatabase using edge functions",
     "volume": "22",
