@@ -669,6 +669,21 @@
     "sortKey": 202408
   },
   {
+    "type": "misc",
+    "key": "https://doi.org/10.6084/m9.figshare.25688895",
+    "doi": "10.6084/M9.FIGSHARE.25688895",
+    "url": "https://figshare.com/articles/media/Ca2_oscillations_in_Kcnj8_G343D_Q53R_shRNA_control_and_Kcnj8_G343D_Q53R_shRNA_Gjd2_cells_/25688895",
+    "author": "<b>{Yildirim, Vehpi}</b>",
+    "keywords": "Animal cell and molecular biology, Molecular imaging (incl. electron microscopy and neutron diffraction), Computational physiology, Bioinformatics and computational biology not elsewhere classified",
+    "title": "Ca2+ oscillations in Kcnj8 [G343D, Q53R]/shRNA control and Kcnj8 [G343D, Q53R]/shRNA Gjd2 cells.",
+    "publisher": "figshare",
+    "year": "2024",
+    "copyright": "Creative Commons Attribution 4.0 International",
+    "yearNum": 2024,
+    "monthNum": 6,
+    "sortKey": 202406
+  },
+  {
     "type": "article",
     "key": "van_den_Bosch_2024",
     "title": "Surgical Ablation in Congenital Heart Disease: Advances in Techniques and Clinical Outcomes",
@@ -682,21 +697,6 @@
     "author": "van den Bosch, Annemien E. and van Schie, Mathijs S. and <b>{Yildirim, Vehpi}</b> and Linderhof, Manouk H. C. and de Groot, Natasja M. S. and Nguyen, Hoang H. and Taverne, Yannick J. H. J.",
     "year": "2024",
     "pages": "577--592",
-    "yearNum": 2024,
-    "monthNum": 6,
-    "sortKey": 202406
-  },
-  {
-    "type": "misc",
-    "key": "https://doi.org/10.6084/m9.figshare.25688895",
-    "doi": "10.6084/M9.FIGSHARE.25688895",
-    "url": "https://figshare.com/articles/media/Ca2_oscillations_in_Kcnj8_G343D_Q53R_shRNA_control_and_Kcnj8_G343D_Q53R_shRNA_Gjd2_cells_/25688895",
-    "author": "<b>{Yildirim, Vehpi}</b>",
-    "keywords": "Animal cell and molecular biology, Molecular imaging (incl. electron microscopy and neutron diffraction), Computational physiology, Bioinformatics and computational biology not elsewhere classified",
-    "title": "Ca2+ oscillations in Kcnj8 [G343D, Q53R]/shRNA control and Kcnj8 [G343D, Q53R]/shRNA Gjd2 cells.",
-    "publisher": "figshare",
-    "year": "2024",
-    "copyright": "Creative Commons Attribution 4.0 International",
     "yearNum": 2024,
     "monthNum": 6,
     "sortKey": 202406
