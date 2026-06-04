@@ -709,15 +709,17 @@
   {
     "type": "article",
     "key": "Park_2024",
-    "title": "Discovering cyclic causal models in psycho-logical research",
+    "title": "Discovering cyclic causal models in psychological research",
     "volume": "2",
     "issn": "2976-937X",
     "url": "http://dx.doi.org/10.56296/aip00012",
     "doi": "10.56296/aip00012",
+    "number": "1",
     "journal": "advances.in/psychology",
     "publisher": "Advances.in Ltd.",
     "author": "<b>{Park, Kyuri}</b> and Waldorp, Lourens J. and Ryan, Oisin",
     "year": "2024",
+    "pages": "e72425",
     "yearNum": 2024,
     "monthNum": 6,
     "sortKey": 202406
