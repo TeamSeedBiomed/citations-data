@@ -83,6 +83,22 @@
   },
   {
     "type": "article",
+    "key": "Zhang_2026",
+    "title": "Characterization of Paroxysmal Atrial Fibrillation in Atrial Septal Defects",
+    "issn": "2405-500X",
+    "url": "http://dx.doi.org/10.1016/j.jacep.2026.02.041",
+    "doi": "10.1016/j.jacep.2026.02.041",
+    "journal": "JACC: Clinical Electrophysiology",
+    "publisher": "Elsevier BV",
+    "author": "Zhang, Can and Ramdat Misier, Nawin L. and Taverne, Yannick J.H.J. and Nguyen, Hoang H. and van Schie, Mathijs S. and Dai, Lixia and Linderhof, Manouk H.C. and <b>{Yildirim, Vehpi}</b> and van Leeuwen, Wouter J. and van de Woestijne, Pieter C. and van den Bosch, Annemien E. and de Groot, Natasja M.S.",
+    "year": "2026",
+    "month": "Apr",
+    "yearNum": 2026,
+    "monthNum": 4,
+    "sortKey": 202604
+  },
+  {
+    "type": "article",
     "key": "Ly_2026",
     "title": "A PBK Model for PFAS Transfer from Feed to Fillet in Farmed Atlantic Salmon",
     "url": "http://dx.doi.org/10.21203/rs.3.rs-9312722/v1",
