@@ -47,6 +47,23 @@
   },
   {
     "type": "inproceedings",
+    "key": "Chalupsk__2026",
+    "title": "Graph-Theoretical Analysis of the Gut-Microbiome-Brain Axis: Identifying Mediators of Suicidal Ideation",
+    "isbn": "9783032299093",
+    "issn": "1611-3349",
+    "url": "http://dx.doi.org/10.1007/978-3-032-29909-3_28",
+    "doi": "10.1007/978-3-032-29909-3_28",
+    "booktitle": "Computational Science -- ICCS 2026 Workshops",
+    "publisher": "Springer Nature Switzerland",
+    "author": "Chalupský, Petr and <b>{Kumar, Shivam}</b> and Epelbaum, Valeria and Krzhizhanovskaya, Valeria and <b>{Sheraton, Vivek M.}</b>",
+    "year": "2026",
+    "pages": "387--400",
+    "yearNum": 2026,
+    "monthNum": 6,
+    "sortKey": 202606
+  },
+  {
+    "type": "inproceedings",
     "key": "Getsadze_2026",
     "title": "Mechanistic Modeling of Stress-Induced Glucose Dysregulation: Calibrating a Coupled HPA-Metabolic Framework to the UK Biobank",
     "isbn": "9783032299123",
