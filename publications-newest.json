@@ -1,6 +1,24 @@
 [
   {
     "type": "article",
+    "key": "Haspolat_2027",
+    "title": "Modeling the impact of reinfected infectious diseases vaccination using a nonlinear SVEIRD framework: A case study from Alberta, Canada",
+    "volume": "31",
+    "issn": "1937-1179",
+    "url": "http://dx.doi.org/10.3934/dcdss.2026071",
+    "doi": "10.3934/dcdss.2026071",
+    "number": "0",
+    "journal": "Discrete and Continuous Dynamical Systems - S",
+    "publisher": "American Institute of Mathematical Sciences (AIMS)",
+    "author": "Haspolat, Emrah and Yildiz, Bengi and <b>{Yildirim, Vehpi}</b>",
+    "year": "2027",
+    "pages": "81--111",
+    "yearNum": 2027,
+    "monthNum": 6,
+    "sortKey": 202706
+  },
+  {
+    "type": "article",
     "key": "Papapanagiotou_2026",
     "title": "Machine learning for early detection and prediction of sepsis: explainability and key sepsis biomarkers representation---A systematic review",
     "volume": "214",
@@ -58,23 +76,6 @@
     "author": "Chalupský, Petr and <b>{Kumar, Shivam}</b> and Epelbaum, Valeria and Krzhizhanovskaya, Valeria and <b>{Sheraton, Vivek M.}</b>",
     "year": "2026",
     "pages": "387--400",
-    "yearNum": 2026,
-    "monthNum": 6,
-    "sortKey": 202606
-  },
-  {
-    "type": "inproceedings",
-    "key": "Getsadze_2026",
-    "title": "Mechanistic Modeling of Stress-Induced Glucose Dysregulation: Calibrating a Coupled HPA-Metabolic Framework to the UK Biobank",
-    "isbn": "9783032299123",
-    "issn": "1611-3349",
-    "url": "http://dx.doi.org/10.1007/978-3-032-29912-3_33",
-    "doi": "10.1007/978-3-032-29912-3_33",
-    "booktitle": "Computational Science -- ICCS 2026 Workshops",
-    "publisher": "Springer Nature Switzerland",
-    "author": "<b>{Getsadze, Rezo}</b> and <b>{Cao, Qiziyi}</b> and <b>{Kumar, Shivam}</b> and <b>{Sheraton, Vivek M.}</b>",
-    "year": "2026",
-    "pages": "418--431",
     "yearNum": 2026,
     "monthNum": 6,
     "sortKey": 202606
