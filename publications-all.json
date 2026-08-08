@@ -188,6 +188,22 @@
   },
   {
     "type": "article",
+    "key": "de_Groot_2026",
+    "title": "The irregularity factor: Mechanistic insights into beat-to-beat irregularities in atrial fibrillation cycle length",
+    "issn": "1547-5271",
+    "url": "http://dx.doi.org/10.1016/j.hrthm.2026.04.059",
+    "doi": "10.1016/j.hrthm.2026.04.059",
+    "journal": "Heart Rhythm",
+    "publisher": "Elsevier BV",
+    "author": "de Groot, Natasja M.S. and van Staveren, Lianne N. and Lanters, Eva A.H. and <b>{Yildirim, Vehpi}</b> and Hendriks, Richard and de Boer, Rudolf A. and Rammanah, Hemanth and van Schie, Mathijs S.",
+    "year": "2026",
+    "month": "May",
+    "yearNum": 2026,
+    "monthNum": 5,
+    "sortKey": 202605
+  },
+  {
+    "type": "article",
     "key": "Getsadze_2026",
     "title": "Mechanistic Modeling of Stress-Induced Glucose Dysregulation: Calibrating a Coupled HPA-Metabolic Framework to the UK Biobank",
     "url": "http://dx.doi.org/10.21203/rs.3.rs-9475176/v1",
