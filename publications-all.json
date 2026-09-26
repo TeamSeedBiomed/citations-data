@@ -19,6 +19,25 @@
   },
   {
     "type": "article",
+    "key": "de_Groot_2026",
+    "title": "The irregularity factor: Mechanistic insights into beat-to-beat irregularities in atrial fibrillation cycle length",
+    "volume": "23",
+    "issn": "1547-5271",
+    "url": "http://dx.doi.org/10.1016/j.hrthm.2026.04.059",
+    "doi": "10.1016/j.hrthm.2026.04.059",
+    "number": "10",
+    "journal": "Heart Rhythm",
+    "publisher": "Elsevier BV",
+    "author": "de Groot, Natasja M.S. and van Staveren, Lianne N. and Lanters, Eva A.H. and <b>{Yildirim, Vehpi}</b> and Hendriks, Richard and de Boer, Rudolf A. and Rammanah, Hemanth and van Schie, Mathijs S.",
+    "year": "2026",
+    "month": "Oct",
+    "pages": "2195--2204",
+    "yearNum": 2026,
+    "monthNum": 10,
+    "sortKey": 202610
+  },
+  {
+    "type": "article",
     "key": "Zhang_2026",
     "title": "Characterization of Paroxysmal Atrial Fibrillation in Atrial Septal Defects",
     "volume": "12",
@@ -204,22 +223,6 @@
     "yearNum": 2026,
     "monthNum": 6,
     "sortKey": 202606
-  },
-  {
-    "type": "article",
-    "key": "de_Groot_2026",
-    "title": "The irregularity factor: Mechanistic insights into beat-to-beat irregularities in atrial fibrillation cycle length",
-    "issn": "1547-5271",
-    "url": "http://dx.doi.org/10.1016/j.hrthm.2026.04.059",
-    "doi": "10.1016/j.hrthm.2026.04.059",
-    "journal": "Heart Rhythm",
-    "publisher": "Elsevier BV",
-    "author": "de Groot, Natasja M.S. and van Staveren, Lianne N. and Lanters, Eva A.H. and <b>{Yildirim, Vehpi}</b> and Hendriks, Richard and de Boer, Rudolf A. and Rammanah, Hemanth and van Schie, Mathijs S.",
-    "year": "2026",
-    "month": "May",
-    "yearNum": 2026,
-    "monthNum": 5,
-    "sortKey": 202605
   },
   {
     "type": "article",
