@@ -38,6 +38,23 @@
   },
   {
     "type": "article",
+    "key": "Korkmaz_2026",
+    "title": "Immune Function in Burn Patients: Pathophysiology, Monitoring, and Emerging Therapeutic Strategies",
+    "issn": "0305-4179",
+    "url": "http://dx.doi.org/10.1016/j.burns.2026.108260",
+    "doi": "10.1016/j.burns.2026.108260",
+    "journal": "Burns",
+    "publisher": "Elsevier BV",
+    "author": "<b>{Korkmaz, H. Ibrahim}</b> and Boer, Dirk P. and <b>{van der Ven, Fleur}</b> and Meeder, Maaike and Papendorp, Stephan and Pijpe, Anouk and Vries, Annebeth Meij-de and Bosma, Eelke and van Zuijlen, Paul P.M.",
+    "year": "2026",
+    "month": "Oct",
+    "pages": "108260",
+    "yearNum": 2026,
+    "monthNum": 10,
+    "sortKey": 202610
+  },
+  {
+    "type": "article",
     "key": "Zhang_2026",
     "title": "Characterization of Paroxysmal Atrial Fibrillation in Atrial Septal Defects",
     "volume": "12",
