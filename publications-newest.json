@@ -38,6 +38,23 @@
   },
   {
     "type": "article",
+    "key": "Korkmaz_2026",
+    "title": "Immune Function in Burn Patients: Pathophysiology, Monitoring, and Emerging Therapeutic Strategies",
+    "issn": "0305-4179",
+    "url": "http://dx.doi.org/10.1016/j.burns.2026.108260",
+    "doi": "10.1016/j.burns.2026.108260",
+    "journal": "Burns",
+    "publisher": "Elsevier BV",
+    "author": "<b>{Korkmaz, H. Ibrahim}</b> and Boer, Dirk P. and <b>{van der Ven, Fleur}</b> and Meeder, Maaike and Papendorp, Stephan and Pijpe, Anouk and Vries, Annebeth Meij-de and Bosma, Eelke and van Zuijlen, Paul P.M.",
+    "year": "2026",
+    "month": "Oct",
+    "pages": "108260",
+    "yearNum": 2026,
+    "monthNum": 10,
+    "sortKey": 202610
+  },
+  {
+    "type": "article",
     "key": "Zhang_2026",
     "title": "Characterization of Paroxysmal Atrial Fibrillation in Atrial Septal Defects",
     "volume": "12",
@@ -70,23 +87,5 @@
     "yearNum": 2026,
     "monthNum": 8,
     "sortKey": 202608
-  },
-  {
-    "type": "article",
-    "key": "Ly_2026",
-    "title": "A PBK model for PFAS transfer from feed to fillet in farmed Atlantic salmon",
-    "volume": "2",
-    "issn": "3059-3719",
-    "url": "http://dx.doi.org/10.1038/s44454-026-00043-3",
-    "doi": "10.1038/s44454-026-00043-3",
-    "number": "1",
-    "journal": "npj Emerging Contaminants",
-    "publisher": "Springer Science and Business Media LLC",
-    "author": "<b>{Ly, Tu-Ky}</b> and Veenaas, Cathrin and Bodin, Cleo and Lie, Kai K. and Beaudouin, Rémy and Berntssen, Marc H. G.",
-    "year": "2026",
-    "month": "July",
-    "yearNum": 2026,
-    "monthNum": 7,
-    "sortKey": 202607
   }
 ]
