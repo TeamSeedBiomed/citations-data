@@ -19,6 +19,23 @@
   },
   {
     "type": "article",
+    "key": "Korkmaz_2026",
+    "title": "Persistent Systemic Complement Activation Despite Increased Endogenous C1-Inhibitor Levels in Adult Burn Patients",
+    "issn": "0305-4179",
+    "url": "http://dx.doi.org/10.1016/j.burns.2026.108272",
+    "doi": "10.1016/j.burns.2026.108272",
+    "journal": "Burns",
+    "publisher": "Elsevier BV",
+    "author": "<b>{Korkmaz, H. Ibrahim}</b> and Krijnen, Paul A.J. and Vlig, Marcel and van Mierlo, Gerard and Stoop, Matthea M. and Pijpe, Anouk and Pouw, Richard B. and Niessen, Hans W.M. and van Zuijlen, Paul P.M.",
+    "year": "2026",
+    "month": "Nov",
+    "pages": "108272",
+    "yearNum": 2026,
+    "monthNum": 11,
+    "sortKey": 202611
+  },
+  {
+    "type": "article",
     "key": "de_Groot_2026",
     "title": "The irregularity factor: Mechanistic insights into beat-to-beat irregularities in atrial fibrillation cycle length",
     "volume": "23",
