@@ -55,6 +55,25 @@
   },
   {
     "type": "article",
+    "key": "Papapanagiotou_2026",
+    "title": "Integrating Inflammatory and Endothelial Biomarkers in Machine Learning Models to Predict Sepsis Development in Critically Ill Patients: A Combined Retrospective and Prospective Multicenter Study",
+    "volume": "15",
+    "issn": "2076-0817",
+    "url": "http://dx.doi.org/10.3390/pathogens15111214",
+    "doi": "10.3390/pathogens15111214",
+    "number": "11",
+    "journal": "Pathogens",
+    "publisher": "MDPI AG",
+    "author": "<b>{Papapanagiotou, Ioannis}</b> and Vassiliou, Alice G. and Vrettou, Charikleia S. and Theodorakopoulou, Maria and Mastora, Zafeiria and Karalis, Apostolos and Giannopoulou, Vassiliki and Kampouropoulou, Olga and Charcharos, Ioannis and Poupouzas, Georgios and Issaris, Vasileios and Dede, Konstantina and Christopoulou, Helen and Karkoulias, Kyriakos and Raftopoulou, Sylvia and Pouriki, Sophia and Keskinidou, Chrysi and Lotsios, Nikolaos S. and Ganitidis, Theofanis and Golemati, Spyretta and Kotanidou, Anastasia and Papapanagiotou, Stavros and Dimopoulou, Ioanna",
+    "year": "2026",
+    "month": "Nov",
+    "pages": "1214",
+    "yearNum": 2026,
+    "monthNum": 11,
+    "sortKey": 202611
+  },
+  {
+    "type": "article",
     "key": "de_Groot_2026",
     "title": "The irregularity factor: Mechanistic insights into beat-to-beat irregularities in atrial fibrillation cycle length",
     "volume": "23",
@@ -71,24 +90,5 @@
     "yearNum": 2026,
     "monthNum": 10,
     "sortKey": 202610
-  },
-  {
-    "type": "article",
-    "key": "Zhang_2026",
-    "title": "Characterization of Paroxysmal Atrial Fibrillation in Atrial Septal Defects",
-    "volume": "12",
-    "issn": "2405-500X",
-    "url": "http://dx.doi.org/10.1016/j.jacep.2026.02.041",
-    "doi": "10.1016/j.jacep.2026.02.041",
-    "number": "8",
-    "journal": "JACC: Clinical Electrophysiology",
-    "publisher": "Elsevier BV",
-    "author": "Zhang, Can and Ramdat Misier, Nawin L. and Taverne, Yannick J.H.J. and Nguyen, Hoang H. and van Schie, Mathijs S. and Dai, Lixia and Linderhof, Manouk H.C. and <b>{Yildirim, Vehpi}</b> and van Leeuwen, Wouter J. and van de Woestijne, Pieter C. and van den Bosch, Annemien E. and de Groot, Natasja M.S.",
-    "year": "2026",
-    "month": "Aug",
-    "pages": "1954--1965",
-    "yearNum": 2026,
-    "monthNum": 8,
-    "sortKey": 202608
   }
 ]
