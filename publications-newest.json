@@ -74,21 +74,16 @@
   },
   {
     "type": "article",
-    "key": "de_Groot_2026",
-    "title": "The irregularity factor: Mechanistic insights into beat-to-beat irregularities in atrial fibrillation cycle length",
-    "volume": "23",
-    "issn": "1547-5271",
-    "url": "http://dx.doi.org/10.1016/j.hrthm.2026.04.059",
-    "doi": "10.1016/j.hrthm.2026.04.059",
-    "number": "10",
-    "journal": "Heart Rhythm",
-    "publisher": "Elsevier BV",
-    "author": "de Groot, Natasja M.S. and van Staveren, Lianne N. and Lanters, Eva A.H. and <b>{Yildirim, Vehpi}</b> and Hendriks, Richard and de Boer, Rudolf A. and Rammanah, Hemanth and van Schie, Mathijs S.",
+    "key": "Haselager_2026",
+    "title": "Single-cell characterization of 3D CLL spheroid model that recapitulates lymph node microenvironment-driven phenotypes and in vivo drug responses to ibrutinib",
+    "url": "http://dx.doi.org/10.64898/2026.10.31.763314",
+    "doi": "10.64898/2026.10.31.763314",
+    "publisher": "openRxiv",
+    "author": "<b>{Haselager, Marco V}</b> and Lashgari, Danial and Jongejan, Aldo and Roos, Jamie Lee and Dijkema, Marjolein and Dubois, Julie and Peters, Fleur S and Kater, Arnon P and Moerland, Perry D and Eldering, Eric",
     "year": "2026",
-    "month": "Oct",
-    "pages": "2195--2204",
+    "month": "Nov",
     "yearNum": 2026,
-    "monthNum": 10,
-    "sortKey": 202610
+    "monthNum": 11,
+    "sortKey": 202611
   }
 ]
